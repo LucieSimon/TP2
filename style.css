@@ -1,7 +1,7 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background-image: -webkit-linear-gradient(left, #ff7575, #ffff75, #a0ff75, #5075ff,#a075ff);;
 }
 
 #header
@@ -53,11 +53,11 @@
 	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
-	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
-	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
+	background-image: -webkit-linear-gradient(left, #ff7575, #ffff75, #a0ff75, #5075ff,#a075ff);
+	background-image: linear-gradient(left, #ff7575, #ffff75, #a0ff75, #5075ff,#a075ff);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
-	opacity: 0.83;
+	opacity: 0.75;
 }
 
 #edito h2
@@ -78,11 +78,11 @@
 	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
-	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
-	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
+	background-image: -webkit-linear-gradient(left, #ff7575, #ffff75, #a0ff75, #5075ff,#a075ff);
+	background-image: linear-gradient(left, #ff7575, #ffff75, #a0ff75, #5075ff,#a075ff);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
-	opacity: 0.83;
+	opacity: 0.75;
 }
 
 #footer
